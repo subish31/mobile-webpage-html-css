@@ -1,0 +1,38 @@
+.nav
+{
+    padding-right: 400px;
+    float: right;
+}
+.header
+{
+    word-spacing: 60px;
+    background-color:#2e3192;
+    color: white;
+    font-size: 25px;
+    padding: 5px;
+}
+img{
+    padding: 20px 0px 5px 60px;
+}
+.title{
+    font-size:30px ;
+    text-align: center;
+    font-weight: bold;
+}
+.content{
+    float: left;
+    font-size: 22px;
+    padding:50px;
+    word-spacing: 5px;
+    width: 1000px;
+}
+.image
+{
+    float: right;
+}
+.services
+{
+  font-size: 30px;
+  text-align: center;
+  font-weight: bold;
+}
